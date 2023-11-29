@@ -1,0 +1,1 @@
+A cryptocurrency website, with the ability to look up different cryptocurrencies using an external api and their value in regular currencies, the ability to pin up to 5 currencies, and a live-updating chart.
